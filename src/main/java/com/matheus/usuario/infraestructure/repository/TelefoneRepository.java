@@ -1,6 +1,7 @@
 package com.matheus.usuario.infraestructure.repository;
 
-import com.lazari.aprendendo_spring.infraestructure.entity.Telefone;
+
+import com.matheus.usuario.infraestructure.entity.Telefone;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
